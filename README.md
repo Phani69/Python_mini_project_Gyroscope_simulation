@@ -82,7 +82,6 @@ gyroscope-simulation/
 ├── gyroscope_simulation_data.csv # Generated simulation data (after running)
 └── LICENSE                   # License information
 ```
-
 ---
 
 ## Contributing
