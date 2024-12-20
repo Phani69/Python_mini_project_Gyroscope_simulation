@@ -96,12 +96,6 @@ We welcome contributions to enhance the simulation. To contribute:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [MIT](./LICENSE) file for details.
-
----
-
 
 ## Author
 
